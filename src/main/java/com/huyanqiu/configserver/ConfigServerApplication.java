@@ -11,8 +11,4 @@ public class ConfigServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConfigServerApplication.class, args);
 	}
-	
-	public static void a () {
-		System.out.println("本地分支新增方法");
-	}
 }
