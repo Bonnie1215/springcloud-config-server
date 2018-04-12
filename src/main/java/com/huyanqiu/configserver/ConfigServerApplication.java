@@ -11,4 +11,10 @@ public class ConfigServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConfigServerApplication.class, args);
 	}
+	
+	// 新增方法
+	public void test() {
+		
+	}
+	
 }
